@@ -1,0 +1,4 @@
+*.csv
+.ipynb_checkpoints
+ds_lab2_2/.vs
+ds_lab2_2/ds_lab2_2/__pycache__
